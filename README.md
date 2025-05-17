@@ -1,4 +1,5 @@
-Battery Capacity Prediction with Optimized ANN
+# Battery Capacity Prediction with Optimized ANN
+
 This repository contains MATLAB code for reading structured battery cycling data and using it to train an artificial neural network (ANN) for capacity prediction. The ANN model employs hyperparameters optimized via Bayesian optimization, built using MATLAB's Deep Learning Toolbox.
 This script was used in the paper titled:
 

@@ -6,6 +6,12 @@ This script was used in the paper titled:
 
 The code provides a reproducible and modular framework for feature extraction, normalization, ANN training, and capacity forecasting — making it suitable for both academic study and real-world applications in battery health monitoring.
 
+<div align="center">
+  <img src="Framework.png" alt="Data Structuring Overview" />
+</div>
+
+
+
 ---
 
 Features

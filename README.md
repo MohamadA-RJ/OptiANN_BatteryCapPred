@@ -3,7 +3,8 @@
 This repository contains MATLAB code for reading structured battery cycling data and using it to train an artificial neural network (ANN) for capacity prediction. The ANN model employs hyperparameters optimized via Bayesian optimization, built using MATLAB's Deep Learning Toolbox.
 This script was used in the paper titled:
 
-“Computational Micromechanics and Machine Learning-Informed Design of Composite Carbon Fiber-Based Structural Battery for Multifunctional Performance Prediction,” published in ACS Applied Materials & Interfaces.
+M. A. Raja, W. Kim, W. Kim, S. H. Lim, and S. S. Kim,
+"Computational Micromechanics and Machine Learning-Informed Design of Composite Carbon Fiber-Based Structural Battery for Multifunctional Performance Prediction," ACS Applied Materials & Interfaces, vol. 17, no. 13, pp. 20125–20137, Feb. 2025. doi: 10.1021/acsami.4c19073
 
 The code provides a reproducible and modular framework for feature extraction, normalization, ANN training, and capacity forecasting — making it suitable for both academic study and real-world applications in battery health monitoring.
 
